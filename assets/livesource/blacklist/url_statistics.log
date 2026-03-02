@@ -1,19 +1,19 @@
 # 完整检测统计日志
-# 生成时间: 20260223 05:13:26
-===== 检测开始: 20260223 04:26:56 =====
+# 生成时间: 20260302 05:13:57
+===== 检测开始: 20260302 04:17:06 =====
 处理远程URL: https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/full.txt
-远程订阅统计: 12212,https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/full.txt
+远程订阅统计: 13105,https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/full.txt
 处理远程URL: https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/result.txt
-远程订阅统计: 2593,https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/result.txt
+远程订阅统计: 2604,https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/result.txt
 脚本目录: /home/runner/work/core/core/assets/livesource/blacklist
-本地black文件行数: 27643
-初始总行数（远程+本地）: 42448
-分解#后行数: 42518
-去$后行数: 42518
-去重后行数: 40048
+本地black文件行数: 28749
+初始总行数（远程+本地）: 44458
+分解#后行数: 44533
+去$后行数: 44533
+去重后行数: 41912
 并发线程数: 30
-检测结果: 成功11295条, 失败28749条
+检测结果: 成功12091条, 失败29819条
 结果文件保存: /home/runner/work/core/core/assets/livesource/blacklist/whitelist_auto.txt, /home/runner/work/core/core/assets/livesource/blacklist/whitelist_auto_tv.txt, /home/runner/work/core/core/assets/livesource/blacklist/blacklist_auto.txt
-历史记录保存: /home/runner/work/core/core/assets/livesource/blacklist/history/blacklist/20260223_05_13_26_whitelist_auto.txt, /home/runner/work/core/core/assets/livesource/blacklist/history/blacklist/20260223_05_13_26_blacklist_auto.txt
-执行时间: 46分29秒 (开始: 20260223_04_26_56, 结束: 20260223_05_13_26)
-故障主机统计保存: /home/runner/work/core/core/assets/livesource/blacklist/blackhost/20260223_05_13_26_blackhost_count.txt
+历史记录保存: /home/runner/work/core/core/assets/livesource/blacklist/history/blacklist/20260302_05_13_57_whitelist_auto.txt, /home/runner/work/core/core/assets/livesource/blacklist/history/blacklist/20260302_05_13_57_blacklist_auto.txt
+执行时间: 56分51秒 (开始: 20260302_04_17_06, 结束: 20260302_05_13_57)
+故障主机统计保存: /home/runner/work/core/core/assets/livesource/blacklist/blackhost/20260302_05_13_57_blackhost_count.txt
